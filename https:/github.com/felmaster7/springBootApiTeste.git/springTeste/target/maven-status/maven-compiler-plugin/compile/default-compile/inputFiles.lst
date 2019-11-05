@@ -1,0 +1,7 @@
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/repository/PessoaRepository.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/controller/PessoaController.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/entity/Usuario.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/securitty/SecurityConfig.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/entity/Pessoa.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/config/SwaggerConfig.java
+/home/fellipe/eclipse-workspace4/springTeste/src/main/java/br/com/treinaweb/springbootapi/DemoApplication.java
